@@ -1,0 +1,11 @@
+geektime\spring\springbucks\model\Coffee.class
+geektime\spring\springbucks\repository\CoffeeOrderRepository.class
+geektime\spring\springbucks\repository\CoffeeRepository.class
+geektime\spring\springbucks\model\CoffeeOrder$CoffeeOrderBuilder.class
+geektime\spring\springbucks\service\CoffeeOrderService.class
+geektime\spring\springbucks\model\OrderState.class
+geektime\spring\springbucks\model\BaseEntity.class
+geektime\spring\springbucks\SpringBucksApplication.class
+geektime\spring\springbucks\model\CoffeeOrder.class
+geektime\spring\springbucks\model\Coffee$CoffeeBuilder.class
+geektime\spring\springbucks\service\CoffeeService.class
